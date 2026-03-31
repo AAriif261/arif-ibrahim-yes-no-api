@@ -1,0 +1,74 @@
+body {
+  background-image: url("https://t3.ftcdn.net/jpg/03/50/15/90/360_F_350159049_mVAZt5amRF4p6reJfs7HknXYx7EsQBl3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+    color: red;
+    font-size: 50px;
+    justify-content: center;
+
+}
+
+h2 {
+    color: red;
+    margin-bottom: 40px;
+    justify-content: center;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.fighter {
+    width: 300px;
+    height: 600px;
+    border: 3px solid white;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.fighter:hover {
+    border-color: red;
+}
+
+.fighter1, .fighter2 {
+    width: 300px;
+    height: 600px;
+    border: 3px solid white;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.fighter1:hover, .fighter2:hover {
+    border-color: red;
+}
+
+.fighter1 img, .fighter2 img {
+    max-width: 100%;
+    max-height: 80%;
+    object-fit: cover;
+}
+
+.fighter1 p, .fighter2 p {
+    color: white;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.vs {
+    font-size: 40px;
+    color: red;
+}

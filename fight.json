@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "event": "UFC 300",
+    "redCorner": {
+      "name": "Alex Pereira",
+      "record": "9-2",
+      "strikesPerMin": 5.0,
+      "strikeAccuracy": 62,
+      "image": "https://legacymedia.sportsplatform.io/image/upload/v1712773505/hy0qgpiqcctqctvf8opm.jpg"
+    },
+    "blueCorner": {
+      "name": "Jamahal Hill",
+      "record": "12-1",
+      "strikesPerMin": 7.0,
+      "strikeAccuracy": 54,
+      "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/chorus/uploads/chorus_asset/file/25393282/2148569129.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+    },
+    "winner": "Alex Pereira",
+    "method": "KO/TKO",
+    "round": 1
+  },
+  {
+    "id": 2,
+    "event": "UFC 300",
+    "redCorner": {
+      "name": "Zhang Weili",
+      "record": "24-3",
+      "strikesPerMin": 5.8,
+      "strikeAccuracy": 53,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uZpBkCK0UMO_cPfZTr1AgLCUiBGabJR65w&s"
+    },
+    "blueCorner": {
+      "name": "Yan Xiaonan",
+      "record": "18-3",
+      "strikesPerMin": 6.2,
+      "strikeAccuracy": 45,
+      "image": "https://ufc.com/images/styles/background_image_sm/s3/2020-11/Hero%20Image%20-%20Yan%20Xiaonan%20of%20China%20celebrates%20after%20defeating%20Karolina%20Kowalkiewicz%20in%20their%20strawweight%20bout%20during%20the%20UFC%20Fight%20Night%20event%20at%20Spark%20Arena%20on%20February%2023%2C%202020.jpg?h=d1cb525d&itok=gQi1d_Ub"
+    },
+    "winner": "Zhang Weili",
+    "method": "Decision",
+    "round": 5
+  },
+  {
+    "id": 3,
+    "event": "UFC 300",
+    "redCorner": {
+      "name": "Justin Gaethje",
+      "record": "25-4",
+      "strikesPerMin": 7.5,
+      "strikeAccuracy": 60,
+      "image": "https://ufc.com/images/styles/background_image_sm/s3/image/2023-08/073023-justin-gaethje-celebration-backstage-ufc-291_DSC01356.jpg?h=56d0ca2e&itok=XCK4SeKS"
+    },
+    "blueCorner": {
+      "name": "Max Holloway",
+      "record": "25-7",
+      "strikesPerMin": 7.2,
+      "strikeAccuracy": 48,
+      "image": "https://ufc.com/images/styles/background_image_sm/s3/2025-07/071725-hero-max-holloway_GettyImages-2181232510.jpg?h=d1cb525d&itok=5CVCwqeR"
+    },
+    "winner": "Max Holloway",
+    "method": "KO",
+    "round": 5
+  },
+  {
+    "id": 4,
+    "event": "UFC 300",
+    "redCorner": {
+      "name": "Charles Oliveira",
+      "record": "34-9",
+      "strikesPerMin": 3.5,
+      "strikeAccuracy": 54,
+      "image": "https://ufc.com/images/styles/background_image_sm/s3/2025-10/100825-charles-oliveira-hero.jpg?h=d1cb525d&itok=_qB_KjXv"
+    },
+    "blueCorner": {
+      "name": "Arman Tsarukyan",
+      "record": "21-3",
+      "strikesPerMin": 3.9,
+      "strikeAccuracy": 43,
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/11/21/SMMA/87399188007-arman-tsarukyan-ufc-qatar-ceremonial-weighins.png?auto=webp&width=3840&quality=75"
+    },
+    "winner": "Arman Tsarukyan",
+    "method": "Split Decision",
+    "round": 3
+  },
+  {
+    "id": 5,
+    "event": "UFC 300",
+    "redCorner": {
+      "name": "Bo Nickal",
+      "record": "5-0",
+      "strikesPerMin": 2.5,
+      "strikeAccuracy": 50,
+      "image": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_1500w/public/Bo%20Nickal.jpg?h=f3e1135c&itok=L_ZOv0lS"
+    },
+    "blueCorner": {
+      "name": "Cody Brundage",
+      "record": "10-5",
+      "strikesPerMin": 2.8,
+      "strikeAccuracy": 48,
+      "image": "https://images.tapology.com/letterbox_images/169818/default/Screenshot.png?1769908708"
+    },
+    "winner": "Bo Nickal",
+    "method": "Submission",
+    "round": 2
+  },
+  {
+    "id": 6,
+    "event": "UFC 300",
+    "redCorner": {
+      "name": "Jiri Prochazka",
+      "record": "30-4-1",
+      "strikesPerMin": 5.7,
+      "strikeAccuracy": 54,
+      "image": "https://preview.redd.it/jiri-prochazka-hasnt-fought-to-a-decision-in-nine-years-v0-pld9uya7z1uf1.jpeg?auto=webp&s=7da8f276773e384ed95d4757e9a370a50aba16f5"
+    },
+    "blueCorner": {
+      "name": "Aleksandar Rakic",
+      "record": "14-3",
+      "strikesPerMin": 3.6,
+      "strikeAccuracy": 46,
+      "image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-10/102424-hero-aleksandar-rakic_GettyImages-2148555771.jpg?itok=2qHZkMdj"
+    },
+    "winner": "Jiri Prochazka",
+    "method": "TKO",
+    "round": 2
+  }
+]
